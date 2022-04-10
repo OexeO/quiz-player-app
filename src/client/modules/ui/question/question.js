@@ -9,6 +9,8 @@ export default class Question extends LightningElement {
     }
 
     handleAnswerClick(event) {
+        console.log('ANSWER PARSE:', JSON.parse(event));
+        console.log('ANSWER STRINGIFY:', JSON.stringify(event));
         // Prevent duplicate answers
         if (this.isSaving) {
             return;
