@@ -27,10 +27,10 @@ span[data-answer] {
     color: white;
     border-radius: 0.3rem;
 }
-span[data-answer='A'] {
+span[data-answer='TRUE'] {
     background-color: #04844b;
 }
-span[data-answer='B'] {
+span[data-answer='FALSE'] {
     background-color: #ff2c3e;
 }
 
