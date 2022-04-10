@@ -31,19 +31,11 @@
 }
 
 .answer button[data-answer='A'] {
-    background-color: #1589ee;
+    background-color: #04844b;
 }
 
 .answer button[data-answer='B'] {
-    background-color: #ff9e2c;
-}
-
-.answer button[data-answer='C'] {
     background-color: #d4504c;
-}
-
-.answer button[data-answer='D'] {
-    background-color: #04844b;
 }
 
 .answer .letter {

@@ -28,16 +28,10 @@ span[data-answer] {
     border-radius: 0.3rem;
 }
 span[data-answer='A'] {
-    background-color: #1589ee;
+    background-color: #04844b;
 }
 span[data-answer='B'] {
-    background-color: #ff9e2c;
-}
-span[data-answer='C'] {
-    background-color: #d4504c;
-}
-span[data-answer='D'] {
-    background-color: #04844b;
+    background-color: #ff2c3e;
 }
 
 .credits {
