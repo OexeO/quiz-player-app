@@ -30,11 +30,11 @@
     margin: 1rem;
 }
 
-.answer button[data-answer='A'] {
+.answer button[data-answer='TRUE'] {
     background-color: #04844b;
 }
 
-.answer button[data-answer='B'] {
+.answer button[data-answer='FALSE'] {
     background-color: #d4504c;
 }
 
